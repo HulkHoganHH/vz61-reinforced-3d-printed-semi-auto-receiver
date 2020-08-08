@@ -4,9 +4,9 @@ Designed by **HulkHoganHH** (steamcommunity.com/id/HulkHoganHH, discord:HulkHoga
 
 ![An image of the vz61 reinforced semi auto receiver](screenshot.png)
 
-#### An edit of an existing design to be 3d printer friendly
-#### Intermediate hand tool skills required
-#### Edited with Autodesk Inventor 2019
+- An edit of an existing design to be 3d printer friendly
+- Intermediate hand tool skills required
+- Edited with Autodesk Inventor 2019
 
 **I take no responsibility for any criminal activity committed with these files and will deny any involvement with any criminal parties. Be familiar with local laws before manufacturing. Any trouble you get into is your fault.**
 
