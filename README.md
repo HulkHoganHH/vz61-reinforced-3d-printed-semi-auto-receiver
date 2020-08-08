@@ -1,14 +1,14 @@
 # vz61 reinforced semi auto receiver
 
-## Designed by HulkHoganHH (steamcommunity.com/id/HulkHoganHH, discord:HulkHoganHH#3508, thehulksterHH@gmail.com)
+Designed by **HulkHoganHH** (steamcommunity.com/id/HulkHoganHH, discord:HulkHoganHH#3508, thehulksterHH@gmail.com)
 
 ![An image of the vz61 reinforced semi auto receiver](screenshot.png)
 
-An edit of an existing design to be 3d printer friendly
-Intermediate hand tool skills required
-Edited with Autodesk Inventor 2019
+#### An edit of an existing design to be 3d printer friendly
+#### Intermediate hand tool skills required
+#### Edited with Autodesk Inventor 2019
 
-### **I take no responsibility for any criminal activity committed with these files and will deny any involvement with any criminal parties. Be familiar with local laws before manufacturing. Any trouble you get into is your fault.**
+**I take no responsibility for any criminal activity committed with these files and will deny any involvement with any criminal parties. Be familiar with local laws before manufacturing. Any trouble you get into is your fault.**
 
 This is a smaller print, the longest dimension is about 6.5 inches. An ar15 lower takes about 42 hours on my printer with 100% infill. This took about 12 hours.
 PETG or other strong material recommended. I will test PLA soon.
