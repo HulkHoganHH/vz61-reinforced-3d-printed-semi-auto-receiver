@@ -33,9 +33,9 @@ When buying a kit, be sure that you are buying a kit with a barrel and sights al
 - drill press with vise recommended for handle threading
 
 ## Where to drill? (recommended depending on printer)
-The two 4mm holes for the hammer and trigger
-the 5mm takedown hole in the front
-the 9mm hole for the magazine catch/button (clean this hole well to prevent sticking)
-the 3mm hole in the middle section of the receiver (be very careful to not drill all the way through, however if you do you can tap and plug the hole with a short screw)
-the 4mm hole for the bolt hold open (clean well to prevent sticking)
-the two 1/8" holes next to the takedown hole in the front of the receiver (if reinforcing with steel pins)
+- The two 4mm holes for the hammer and trigger
+- the 5mm takedown hole in the front
+- the 9mm hole for the magazine catch/button (clean this hole well to prevent sticking)
+- the 3mm hole in the middle section of the receiver (be very careful to not drill all the way through, however if you do you can tap and plug the hole with a short screw)
+- the 4mm hole for the bolt hold open (clean well to prevent sticking)
+- the two 1/8" holes next to the takedown hole in the front of the receiver (if reinforcing with steel pins)
