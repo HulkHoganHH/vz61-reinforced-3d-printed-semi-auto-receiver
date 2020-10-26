@@ -11,7 +11,7 @@ Designed by **HulkHoganHH** (steamcommunity.com/id/HulkHoganHH, discord:HulkHoga
 **I take no responsibility for any criminal activity committed with these files and will deny any involvement with any criminal parties. Be familiar with local laws before manufacturing. Any trouble you get into is your fault.**
 
 This is a smaller print, the longest dimension is about 6.5 inches. An ar15 lower takes about 42 hours on my printer with 100% infill. This took about 12 hours.
-PETG or other strong material recommended. I will test PLA soon.
+PLA Plus/pro is the material recommended for this file, the more elastic properties of PETG have shown that it is not a good idea to use that material as the part can bend in thinner areas and cause the upper receiver to move out of its desired position and cause possible catastrophic malfunction
 
 ## Why a vz61?
 Parts kits are, as of August 2020, not scarce and can be obtained from anywhere around $290 to $375 depending on the seller and extras included. .32 auto (7.65 browning) is also a common round, despite its lower demand. Current events at the time of writing have affected almost all gun prices and sales except for .32 auto. If you are very lucky, you can find a .22lr upper conversion kit.
@@ -30,7 +30,7 @@ When buying a kit, be sure that you are buying a kit with a barrel and sights al
 - metric drill set
 - 1/8" OD drill
 - dremel
-- drill press with vise recommended for handle threading
+- drill press with vise recommended for handle hole threading
 
 ## Where to drill? (recommended depending on printer)
 - The two 4mm holes for the hammer and trigger
